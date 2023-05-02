@@ -12,6 +12,30 @@ You can create a local, simple and fast database using with esosdb.
     - Readable
     - Small packet size
 
+Documentation is [here](https://esosdb.mbps.tk)
+
+### Installations
+
+#### esosdb
+
+Npm - esosdb
+
+`npm install esosdb --save`
+
+Yarn - esosdb
+
+`yarn add esosdb`
+
+#### utils
+
+Npm - @esosdb/utils
+
+`npm install @esosdb/utils --save`
+
+Yarn - @esosdb/utils
+
+`yarn add @esosdb/utils`
+
 ### Badges
 
 [![esosdb](https://img.shields.io/npm/v/esosdb?label=esosdb&style=flat-square)](https://github.com/esosdb/esosdb) [![@esosdb/utils](https://img.shields.io/npm/v/@esosdb/utils?label=%40esosdb%2Futils&style=flat-square)](https://github.com/esosdb/utils)
