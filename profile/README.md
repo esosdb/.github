@@ -38,4 +38,10 @@ Yarn - @esosdb/utils
 
 ### Badges
 
+#### Versions
+
 [![esosdb](https://img.shields.io/npm/v/esosdb?label=esosdb&style=flat-square)](https://github.com/esosdb/esosdb) [![@esosdb/utils](https://img.shields.io/npm/v/@esosdb/utils?label=%40esosdb%2Futils&style=flat-square)](https://github.com/esosdb/utils)
+
+#### Downloads
+
+[![esosdb](https://img.shields.io/npm/dt/esosdb?label=esosdb&style=flat-square)](https://github.com/esosdb/esosdb) [![@esosdb/utils](https://img.shields.io/npm/dt/@esosdb/utils?label=%40esosdb%2Futils&style=flat-square)](https://github.com/esosdb/utils)
